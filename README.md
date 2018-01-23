@@ -14,7 +14,7 @@ $ python duplicates.py <path to directory>
 
 ```
 
-The results of the programm:
+The results of the programm (for example, took random directory from my computer):
 
 ```python
 
