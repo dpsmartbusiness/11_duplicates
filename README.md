@@ -18,7 +18,7 @@ The results of the programm:
 
 ```python
 
-		File name: bars.py // Size: 2071 bytes // Number of duplicates: 2
+	File name: bars.py // Size: 2071 bytes // Number of duplicates: 2
         Paths:
         C:\devman\pythondocs\bars.py
         C:\devman\pythondocs\try\bars.py
